@@ -91,8 +91,5 @@ The results were highly positive, with the chatbot demonstrating [file:11]:
     ```
 3.  **Set up OpenAI API Key**: Make sure to set your OpenAI API key as an environment variable.
 4.  **Run the application**:
-    ```
-    python app.py
-    ```
 5.  **Access the web interface**: Open your browser and navigate to the local URL provided by Gradio to start interacting with the chatbot.
 
